@@ -1,0 +1,28 @@
+/vanilla_cnn_best.keras
+/vgg16_finetuned_best.keras
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# MacOS system files
+.DS_Store
+
+# DVC files to ignore model binaries (since DVC tracks them)
+*.keras
+*.h5
+*.pt
+*.pkl
+
+# DVC cache directory (optional)
+.cache/

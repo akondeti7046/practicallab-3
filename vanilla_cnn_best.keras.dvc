@@ -1,0 +1,5 @@
+outs:
+- md5: 5eebe554ea458f5e316996205649d058
+  size: 315749344
+  hash: md5
+  path: vanilla_cnn_best.keras
