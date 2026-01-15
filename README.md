@@ -57,6 +57,54 @@ Trained models are saved as `.keras` files. Download from the links below:
 
 ---
 
+
+### **Results Summary:**
+
+Vanilla CNN showed early overfitting after epoch 5
+
+VGG16 achieved significantly better generalization
+
+Transfer learning proved effective for limited datasets
+
+Precision–Recall curves showed reduced false positives for VGG16
+
+
+### ** Key Learnings:**
+
+Designing CNN architectures from scratch
+
+Applying transfer learning using pre-trained ImageNet weights
+
+Managing overfitting with callbacks and fine-tuning
+
+Evaluating classification models beyond accuracy
+
+Version-controlling large models using DVC
+
+### **Why This Project Matters**
+
+This project demonstrates:
+
+End-to-end deep learning workflow
+
+Practical application of transfer learning
+
+Strong evaluation and comparison methodology
+
+Clean experimentation and reproducibility
+
+
+
+
+
+ Dataset: https://www.kaggle.com/datasets/biaiscience/dogs-vs-cats
+
+
+
+
+
+
+
 ##  Setup Instructions
 
 ### 1. Create and activate a virtual environment (recommended)
