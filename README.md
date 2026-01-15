@@ -69,7 +69,7 @@ Transfer learning proved effective for limited datasets
 Precision–Recall curves showed reduced false positives for VGG16
 
 
-### ** Key Learnings:**
+### **Key Learnings:**
 
 Designing CNN architectures from scratch
 
